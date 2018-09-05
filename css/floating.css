@@ -1,0 +1,28 @@
+.floating-contact {
+    backgroung: none;
+    margin: 8px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 70px;
+    height: 70px;
+    z-index: 100;
+    display: none;
+    text-decoration: none;
+    color: #fff;
+    background-color:#BC0B0B;
+    text-align: center;
+    border-style: inherit;
+    border-radius: 50%;
+    font-size: 34px;
+    box-shadow: 25px;
+    
+}
+
+.floating-contact i {
+    font-size: 30px;
+}
+
+.floating-contact a{
+    color: white;
+}
